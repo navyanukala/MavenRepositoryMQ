@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MQ]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="mq1(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.mq.testcases.LoginTestCase">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mq.testcases.LoginTestCase -->
+    </classes>
+  </test> <!-- mq1(failed) -->
+</suite> <!-- Failed suite [MQ] -->
