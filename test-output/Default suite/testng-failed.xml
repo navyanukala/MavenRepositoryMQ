@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.mq.testcases.LoginTestCase">
+      <class name="com.mq.testcases.LoginTestDataTestCase">
         <methods>
-          <include name="loginTest"/>
           <include name="setup"/>
+          <include name="loginDDTest"/>
         </methods>
-      </class> <!-- com.mq.testcases.LoginTestCase -->
+      </class> <!-- com.mq.testcases.LoginTestDataTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

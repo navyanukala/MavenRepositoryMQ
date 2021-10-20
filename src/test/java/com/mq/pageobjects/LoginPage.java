@@ -24,18 +24,13 @@ public class LoginPage {
 	@FindBy(name="ctl00$uxPgCPH$submitButton")
 	WebElement login;
 	
-	public void setusername(String uname)
+	public void login(String uname, String pwd)
 	{
 		username.sendKeys(uname);
-	}
-	public void setpassword(String pwd)
-	{
 		password.sendKeys(pwd);
-	}
-	public void setlogin()
-	{
 		login.click();
 	}
+	
 	
 
 }

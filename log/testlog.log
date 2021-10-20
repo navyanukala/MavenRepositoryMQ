@@ -1,0 +1,103 @@
+2021-09-20 18:40:57,607 - MQ -INFO - loggedin successfully
+2021-09-20 19:48:44,610 - MQ -INFO - loggedin successfully
+2021-09-20 21:42:18,497 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:00,229 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:04,289 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:07,642 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:10,545 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:49,054 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:52,585 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:57,026 - MQ -INFO - loggedin successfully
+2021-09-20 21:45:58,843 - MQ -INFO - loggedin successfully
+2021-09-20 21:52:53,479 - MQ -INFO - clicked on login
+2021-09-20 21:52:57,529 - MQ -INFO - clicked on login
+2021-09-20 21:53:01,114 - MQ -INFO - clicked on login
+2021-09-20 21:53:04,575 - MQ -INFO - clicked on login
+2021-09-20 22:04:47,035 - MQ -INFO - clicked on login
+2021-09-20 22:04:47,086 - MQ -ERROR - Login failed
+2021-09-20 22:04:51,469 - MQ -INFO - clicked on login
+2021-09-20 22:04:51,499 - MQ -ERROR - Login failed
+2021-09-20 22:04:54,126 - MQ -INFO - clicked on login
+2021-09-20 22:04:54,150 - MQ -ERROR - Login failed
+2021-09-20 22:04:56,688 - MQ -INFO - clicked on login
+2021-09-20 22:04:56,765 - MQ -ERROR - Login failed
+2021-09-20 22:06:39,279 - MQ -INFO - clicked on login
+2021-09-20 22:06:39,315 - MQ -ERROR - Login failed
+2021-09-20 22:06:49,800 - MQ -INFO - clicked on login
+2021-09-20 22:06:49,833 - MQ -ERROR - Login failed
+2021-09-20 22:06:58,150 - MQ -INFO - clicked on login
+2021-09-20 22:06:58,202 - MQ -ERROR - Login failed
+2021-09-20 22:07:18,273 - MQ -INFO - clicked on login
+2021-09-20 22:07:18,392 - MQ -ERROR - Login failed
+2021-09-20 22:11:24,205 - MQ -INFO - clicked on login
+2021-09-20 22:11:24,240 - MQ -ERROR - Login failed
+2021-09-20 22:11:26,454 - MQ -INFO - clicked on login
+2021-09-20 22:11:26,482 - MQ -ERROR - Login failed
+2021-09-20 22:11:31,123 - MQ -INFO - clicked on login
+2021-09-20 22:11:31,162 - MQ -ERROR - Login failed
+2021-09-20 22:11:32,167 - MQ -INFO - clicked on login
+2021-09-21 18:12:09,692 - MQ -INFO - clicked on login
+2021-09-21 18:12:09,724 - MQ -ERROR - Login failed
+2021-09-21 18:12:13,415 - MQ -INFO - clicked on login
+2021-09-21 18:12:13,446 - MQ -ERROR - Login failed
+2021-09-21 18:12:16,900 - MQ -INFO - clicked on login
+2021-09-21 18:12:16,999 - MQ -ERROR - Login failed
+2021-09-21 18:12:22,624 - MQ -INFO - clicked on login
+2021-09-21 18:12:22,690 - MQ -ERROR - Login failed
+2021-09-21 18:14:19,067 - MQ -INFO - clicked on login
+2021-09-21 18:14:19,124 - MQ -ERROR - Login failed
+2021-09-21 18:14:25,492 - MQ -INFO - clicked on login
+2021-09-21 18:14:25,612 - MQ -ERROR - Login failed
+2021-09-21 18:14:29,772 - MQ -INFO - clicked on login
+2021-09-21 18:14:29,882 - MQ -ERROR - Login failed
+2021-09-21 18:14:33,761 - MQ -INFO - clicked on login
+2021-09-21 18:14:33,860 - MQ -ERROR - Login failed
+2021-09-21 18:16:35,173 - MQ -INFO - clicked on login
+2021-09-21 18:16:35,214 - MQ -ERROR - Login failed
+2021-09-21 18:16:44,318 - MQ -INFO - clicked on login
+2021-09-21 18:16:44,397 - MQ -ERROR - Login failed
+2021-09-21 18:16:54,927 - MQ -INFO - clicked on login
+2021-09-21 18:16:55,016 - MQ -ERROR - Login failed
+2021-09-21 18:17:07,389 - MQ -INFO - clicked on login
+2021-09-21 18:17:07,426 - MQ -ERROR - Login failed
+2021-09-21 18:19:03,625 - MQ -INFO - clicked on login
+2021-09-21 18:19:09,047 - MQ -INFO - clicked on login
+2021-09-21 18:19:11,829 - MQ -INFO - clicked on login
+2021-09-21 18:19:15,926 - MQ -INFO - clicked on login
+2021-09-21 18:23:50,926 - MQ -INFO - clicked on login
+2021-09-21 18:23:50,971 - MQ -ERROR - Login failed
+2021-09-21 18:23:55,053 - MQ -INFO - clicked on login
+2021-09-21 18:23:55,111 - MQ -ERROR - Login failed
+2021-09-21 18:23:58,181 - MQ -INFO - clicked on login
+2021-09-21 18:23:58,214 - MQ -ERROR - Login failed
+2021-09-21 18:24:01,030 - MQ -INFO - clicked on login
+2021-09-21 18:24:01,103 - MQ -ERROR - Login failed
+2021-09-21 20:47:29,880 - MQ -INFO - loggedin successfully
+2021-09-21 20:47:44,994 - MQ -INFO - customer created successfully
+2021-09-21 20:52:00,299 - MQ -INFO - loggedin successfully
+2021-09-21 20:52:15,735 - MQ -INFO - customer created successfully
+2021-09-21 20:54:15,503 - MQ -INFO - loggedin successfully
+2021-09-21 20:54:30,068 - MQ -INFO - customer created successfully
+2021-09-21 21:00:35,270 - MQ -INFO - loggedin successfully
+2021-09-21 21:00:38,286 - MQ -INFO - customer created successfully
+2021-09-21 21:04:40,235 - MQ -INFO - loggedin successfully
+2021-09-21 21:04:43,244 - MQ -INFO - customer created successfully
+2021-09-21 21:06:32,165 - MQ -INFO - loggedin successfully
+2021-09-21 21:06:35,186 - MQ -INFO - customer created successfully
+2021-09-21 21:07:40,241 - MQ -INFO - loggedin successfully
+2021-09-21 21:07:43,273 - MQ -INFO - customer created successfully
+2021-09-21 21:10:34,815 - MQ -INFO - loggedin successfully
+2021-09-21 21:10:37,824 - MQ -INFO - customer created successfully
+2021-09-21 21:12:15,447 - MQ -INFO - loggedin successfully
+2021-09-21 21:12:18,455 - MQ -INFO - customer created successfully
+2021-09-21 21:13:44,853 - MQ -INFO - loggedin successfully
+2021-09-21 21:13:47,868 - MQ -INFO - customer created successfully
+2021-09-22 18:50:38,440 - MQ -INFO - loggedin successfully
+2021-09-22 18:50:41,447 - MQ -INFO - customer created successfully
+2021-09-22 18:52:27,404 - MQ -INFO - loggedin successfully
+2021-09-22 18:52:30,421 - MQ -INFO - customer created successfully
+2021-09-22 18:53:31,311 - MQ -INFO - loggedin successfully
+2021-09-22 18:53:34,322 - MQ -INFO - customer created successfully
+2021-09-22 18:56:13,195 - MQ -INFO - loggedin successfully
+2021-09-22 18:56:16,208 - MQ -INFO - customer created successfully
+2021-10-20 17:11:54,298 - MQ -INFO - loggedin successfully
