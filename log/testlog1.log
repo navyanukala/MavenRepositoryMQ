@@ -101,3 +101,82 @@
 2021-09-22 18:56:13,195 [main] INFO MQ - loggedin successfully
 2021-09-22 18:56:16,208 [main] INFO MQ - customer created successfully
 2021-10-20 17:11:54,298 [main] INFO MQ - loggedin successfully
+2021-10-21 19:16:27,723 [main] INFO MQ - loggedin successfully
+2021-10-21 19:21:04,863 [main] INFO MQ - clicked on login
+2021-10-21 19:21:10,282 [main] INFO MQ - clicked on login
+2021-10-21 19:21:14,433 [main] INFO MQ - clicked on login
+2021-10-21 19:21:18,019 [main] INFO MQ - clicked on login
+2021-10-21 19:22:28,612 [main] INFO MQ - clicked on login
+2021-10-21 19:22:37,473 [main] INFO MQ - clicked on login
+2021-10-21 19:22:46,654 [main] INFO MQ - clicked on login
+2021-10-21 19:22:54,913 [main] INFO MQ - clicked on login
+2021-10-21 19:25:10,020 [main] INFO MQ - clicked on login
+2021-10-21 19:25:17,070 [main] INFO MQ - clicked on login
+2021-10-21 19:25:23,868 [main] INFO MQ - clicked on login
+2021-10-21 19:25:32,473 [main] INFO MQ - clicked on login
+2021-10-25 09:51:49,929 [main] INFO MQ - loggedin successfully
+2021-10-25 09:51:52,937 [main] INFO MQ - customer created successfully
+2021-10-25 09:56:36,777 [main] INFO MQ - loggedin successfully
+2021-10-25 09:56:39,795 [main] INFO MQ - customer created successfully
+2021-10-25 17:09:28,567 [main] INFO MQ - loggedin successfully
+2021-10-25 17:09:31,578 [main] INFO MQ - customer created successfully
+2021-10-25 17:12:31,315 [main] INFO MQ - loggedin successfully
+2021-10-25 17:12:34,336 [main] INFO MQ - customer created successfully
+2021-10-25 17:14:24,378 [main] INFO MQ - loggedin successfully
+2021-10-25 17:14:27,386 [main] INFO MQ - customer created successfully
+2021-10-25 17:15:50,684 [main] INFO MQ - loggedin successfully
+2021-10-25 17:15:53,704 [main] INFO MQ - customer created successfully
+2021-10-25 17:17:20,125 [main] INFO MQ - loggedin successfully
+2021-10-25 17:17:23,142 [main] INFO MQ - customer created successfully
+2021-10-25 17:18:42,531 [main] INFO MQ - loggedin successfully
+2021-10-25 17:18:45,550 [main] INFO MQ - customer created successfully
+2021-10-25 17:20:39,327 [main] INFO MQ - loggedin successfully
+2021-10-25 17:20:42,344 [main] INFO MQ - customer created successfully
+2021-10-25 17:24:41,375 [main] INFO MQ - loggedin successfully
+2021-10-25 17:24:44,382 [main] INFO MQ - customer created successfully
+2021-10-25 17:27:08,421 [main] INFO MQ - loggedin successfully
+2021-10-25 17:27:11,435 [main] INFO MQ - customer created successfully
+2021-10-25 17:27:54,443 [main] INFO MQ - loggedin successfully
+2021-10-25 17:27:57,448 [main] INFO MQ - customer created successfully
+2021-10-25 18:39:26,266 [main] INFO MQ - loggedin successfully
+2021-10-25 18:39:29,294 [main] INFO MQ - customer created successfully
+2021-10-25 18:40:31,754 [main] INFO MQ - loggedin successfully
+2021-10-25 18:40:34,774 [main] INFO MQ - customer created successfully
+2021-10-25 18:42:52,752 [main] INFO MQ - loggedin successfully
+2021-10-25 18:42:55,781 [main] INFO MQ - customer created successfully
+2021-10-25 18:45:27,281 [main] INFO MQ - loggedin successfully
+2021-10-25 18:45:30,300 [main] INFO MQ - customer created successfully
+2021-10-25 19:02:40,565 [main] INFO MQ - loggedin successfully
+2021-10-25 19:02:43,586 [main] INFO MQ - customer created successfully
+2021-10-25 19:04:48,886 [main] INFO MQ - loggedin successfully
+2021-10-25 19:04:51,894 [main] INFO MQ - customer created successfully
+2021-10-25 19:09:59,357 [main] INFO MQ - loggedin successfully
+2021-10-25 19:10:02,380 [main] INFO MQ - customer created successfully
+2021-10-25 19:12:39,228 [main] INFO MQ - loggedin successfully
+2021-10-25 19:12:42,244 [main] INFO MQ - customer created successfully
+2021-10-25 19:15:32,516 [main] INFO MQ - loggedin successfully
+2021-10-25 19:15:35,545 [main] INFO MQ - customer created successfully
+2021-10-25 19:18:09,232 [main] INFO MQ - loggedin successfully
+2021-10-25 19:18:12,249 [main] INFO MQ - customer created successfully
+2021-10-26 17:37:30,891 [main] INFO MQ - loggedin successfully
+2021-10-26 17:37:33,920 [main] INFO MQ - customer created successfully
+2021-10-26 17:40:15,555 [main] INFO MQ - loggedin successfully
+2021-10-26 17:40:18,568 [main] INFO MQ - customer created successfully
+2021-10-26 17:42:09,930 [main] INFO MQ - loggedin successfully
+2021-10-26 17:42:12,942 [main] INFO MQ - customer created successfully
+2021-10-26 17:44:58,518 [main] INFO MQ - loggedin successfully
+2021-10-26 17:45:01,526 [main] INFO MQ - customer created successfully
+2021-10-26 17:48:49,816 [main] INFO MQ - loggedin successfully
+2021-10-26 17:48:52,826 [main] INFO MQ - customer created successfully
+2021-10-26 17:54:21,205 [main] INFO MQ - loggedin successfully
+2021-10-26 17:54:24,215 [main] INFO MQ - customer created successfully
+2021-10-26 17:59:29,180 [main] INFO MQ - loggedin successfully
+2021-10-26 17:59:32,189 [main] INFO MQ - customer created successfully
+2021-10-26 18:13:52,870 [main] INFO MQ - loggedin successfully
+2021-10-26 18:13:55,880 [main] INFO MQ - customer created successfully
+2021-10-26 18:18:34,936 [main] INFO MQ - loggedin successfully
+2021-10-26 18:18:37,955 [main] INFO MQ - customer created successfully
+2021-10-26 18:38:15,973 [main] INFO MQ - loggedin successfully
+2021-10-26 18:38:18,985 [main] INFO MQ - customer created successfully
+2021-10-28 13:09:26,927 [main] INFO MQ - loggedin successfully
+2021-10-28 13:09:29,949 [main] INFO MQ - customer created successfully

@@ -9,10 +9,10 @@
 	<parameter name="browser" value="chrome"/>
 	<classes>
 	
-	<class name="com.mq.testcases.LoginTestCase"/>
-	<!-- class name="com.mq.testcases.LoginTestDataTestCase"/-->
+	<!--class name="com.mq.testcases.LoginTestCase"/-->
+	<!--class name="com.mq.testcases.LoginTestDataTestCase"/-->
 	<!-- class name="com.mq.testcases.CustomerRegistration"/-->
-	<!-- class name="com.mq.testcases.ServiceOrderTC"/-->
+	<class name="com.mq.testcases.ServiceOrderTC"/>
 	
 	
 	

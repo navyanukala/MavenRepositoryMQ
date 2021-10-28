@@ -23,18 +23,15 @@ public class LoginTestDataTestCase extends BaseClass {
 	
 		String s=errmsg.getText();
 		System.out.println(s);
+		
 		if(s.equals("! Invalid User ID or Password"))
 		{
-			logger.error("Login failed");
-			WebElement uname=driver.findElement(By.id("ctl00$uxPgCPH$username"));
-			System.out.println(uname);
-			uname.clear();
-			
+			lp.username.clear();
 			//driver.navigate().refresh();
 			Thread.sleep(5000);
 			
 		}
-		else
+		else if (driver.getTitle().equals("Single View"))
 		{
 			logger.info("Login successfully");
 		}

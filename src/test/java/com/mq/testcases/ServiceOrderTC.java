@@ -1,5 +1,7 @@
 package com.mq.testcases;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import com.mq.pageobjects.CustRegPage;
@@ -22,7 +24,9 @@ public class ServiceOrderTC extends BaseClass{
 //		Thread.sleep(3000);
 		logger.info("customer created successfully");
 		ServiceOrderPage ordpage= new ServiceOrderPage(driver);
-		ordpage.BasicServiceOrder("42497","DCCR");
+		ordpage.OEM1("42497","DCCR");
+		ordpage.OEM2("42497","MAA PLAN");
+		
 		
 	}
 

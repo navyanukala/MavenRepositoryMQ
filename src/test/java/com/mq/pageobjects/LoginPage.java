@@ -15,7 +15,7 @@ public class LoginPage {
 		ldriver= rdriver;
 		PageFactory.initElements(ldriver, this);
 	}
-	@FindBy(name="ctl00$uxPgCPH$username")
+	public @FindBy(name="ctl00$uxPgCPH$username")
 	WebElement username;
 	
 	@FindBy(name="ctl00$uxPgCPH$password")
