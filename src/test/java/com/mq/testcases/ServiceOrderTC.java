@@ -25,7 +25,7 @@ public class ServiceOrderTC extends BaseClass{
 		logger.info("customer created successfully");
 		ServiceOrderPage ordpage= new ServiceOrderPage(driver);
 		ordpage.OEM1("42497","DCCR");
-		ordpage.OEM2("42497","MAA PLAN");
+		//ordpage.OEM2("42497","MAA PLAN");
 		
 		
 	}
