@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-MQ" class="navigator-link">
-              <span class="suite-name border-failed">MQ</span>
+              <span class="suite-name border-passed">MQ</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -93,21 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-MQ" class="hide-methods failed suite-MQ"> (hide)</a> <!-- hide-methods failed suite-MQ -->
-                      <a href="#" panel-name="suite-MQ" class="show-methods failed suite-MQ"> (show)</a> <!-- show-methods failed suite-MQ -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-MQ" class="hide-methods passed suite-MQ"> (hide)</a> <!-- hide-methods passed suite-MQ -->
+                      <a href="#" panel-name="suite-MQ" class="show-methods passed suite-MQ"> (show)</a> <!-- show-methods passed suite-MQ -->
                     </span>
-                    <div class="method-list-content failed suite-MQ">
+                    <div class="method-list-content passed suite-MQ">
                       <span>
-                        <img src="failed.png" width="3%"/>
+                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-MQ" title="com.mq.testcases.ServiceOrderTC" class="method navigator-link" hash-for-method="order">order</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-MQ -->
+                    </div> <!-- method-list-content passed suite-MQ -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -119,9 +119,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-MQ" class="panel MQ">
-          <div class="suite-MQ-class-failed">
+          <div class="suite-MQ-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
+              <img src="passed.png"/>
               <span class="class-name">com.mq.testcases.ServiceOrderTC</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -130,35 +130,10 @@
                   <a name="order">
                   </a> <!-- order -->
                   <span class="method-name">order</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;td id=&quot;dm0m0i3tdT&quot; nowrap=&quot;&quot; class=&quot;&quot; style=&quot;width:100%;&quot;&gt;...&lt;/td&gt; is not clickable at point (605, 19). Other element would receive the click: &lt;div id=&quot;ctl00_uxPgCPH_pop_id3&quot; class=&quot;modal-bg&quot; style=&quot;display: block;&quot;&gt;...&lt;/div&gt;
-  (Session info: chrome=95.0.4638.54)
-Build info: version: &apos;4.0.0-beta-4&apos;, revision: &apos;29f46d02dd&apos;
-System info: host: &apos;NAVYAN2&apos;, ip: &apos;192.168.43.127&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.2&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [f7a7a1d942380dbcc949799ff9e53a18, clickElement {id=f25fc3fb-8d59-4ab3-a95c-c9e00ab29cf9}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\NAVYA~1.NUK\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:59365}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59365/devtoo..., se:cdpVersion: 95.0.4638.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (f7a7a1d942380dbcc949799ff9e53a18)] -&gt; id: dm0m0i3tdT]
-Session ID: f7a7a1d942380dbcc949799ff9e53a18
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:162)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:137)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:612)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:235)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:73)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
-	at com.sun.proxy.$Proxy17.click(Unknown Source)
-	at com.mq.pageobjects.ServiceOrderPage.OEM2(ServiceOrderPage.java:105)
-	at com.mq.testcases.ServiceOrderTC.order(ServiceOrderTC.java:28)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 36 stack frames
-</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-MQ-class-failed -->
+          </div> <!-- suite-MQ-class-passed -->
         </div> <!-- panel MQ -->
         <div panel-name="test-xml-MQ" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -219,12 +194,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'order')
 data.setCell(0, 2, 'com.mq.testcases.ServiceOrderTC')
-data.setCell(0, 3, 247818);
+data.setCell(0, 3, 236308);
 window.suiteTableData['MQ']= { tableData: data, tableDiv: 'times-div-MQ'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 minutes</span>
+              <span class="suite-total-time">Total running time: 3 minutes</span>
               <div id="times-div-MQ">
               </div> <!-- times-div-MQ -->
             </div> <!-- times-div -->
@@ -256,10 +231,8 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">order</span>
-                <span class="method-start">19771 ms</span>
+                <span class="method-start">8756 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
