@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-02T18:08:17 IST" name="MQ" finished-at="2021-11-02T18:12:54 IST" duration-ms="276338">
+  <suite started-at="2021-11-03T13:14:22 IST" name="MQ" finished-at="2021-11-03T13:14:35 IST" duration-ms="12779">
     <groups>
     </groups>
-    <test started-at="2021-11-02T18:08:17 IST" name="mq1" finished-at="2021-11-02T18:12:54 IST" duration-ms="276338">
-      <class name="com.mq.testcases.ServiceOrderTC">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mq.testcases.ServiceOrderTC@e1de817]" started-at="2021-11-02T18:08:18 IST" name="setup" finished-at="2021-11-02T18:08:45 IST" duration-ms="26922" status="PASS">
+    <test started-at="2021-11-03T13:14:22 IST" name="mq1" finished-at="2021-11-03T13:14:35 IST" duration-ms="12779">
+      <class name="com.mq.testcases.LoginTestCase">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mq.testcases.LoginTestCase@e1de817]" started-at="2021-11-03T13:14:22 IST" name="setup" finished-at="2021-11-03T13:14:31 IST" duration-ms="8773" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="order()[pri:0, instance:com.mq.testcases.ServiceOrderTC@e1de817]" started-at="2021-11-02T18:08:45 IST" name="order" finished-at="2021-11-02T18:12:54 IST" duration-ms="249105" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.mq.testcases.LoginTestCase@e1de817]" started-at="2021-11-03T13:14:31 IST" name="loginTest" finished-at="2021-11-03T13:14:35 IST" duration-ms="3742" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- order -->
-      </class> <!-- com.mq.testcases.ServiceOrderTC -->
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.mq.testcases.LoginTestCase -->
     </test> <!-- mq1 -->
   </suite> <!-- MQ -->
 </testng-results>
