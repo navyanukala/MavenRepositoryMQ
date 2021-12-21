@@ -7,12 +7,12 @@
   <test thread-count="5" name="mq1(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.mq.testcases.ServiceOrderTC">
+      <class name="com.mq.testcases.LoginTestCase">
         <methods>
-          <include name="order"/>
+          <include name="loginTest"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.mq.testcases.ServiceOrderTC -->
+      </class> <!-- com.mq.testcases.LoginTestCase -->
     </classes>
   </test> <!-- mq1(failed) -->
 </suite> <!-- Failed suite [MQ] -->
