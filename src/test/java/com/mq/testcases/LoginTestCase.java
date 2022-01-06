@@ -22,6 +22,7 @@ public class LoginTestCase extends BaseClass {
 		if(driver.getTitle().equals("Single View"))
 		{
 			Assert.assertTrue(true);
+			logger.info("loggedin successfully");
 		}
 		else
 		{

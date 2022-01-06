@@ -1,0 +1,11 @@
+com\mq\testcases\BaseClass.class
+com\mq\testcases\ServiceOrderTC.class
+com\mq\testcases\LoginTestCase.class
+com\mq\testcases\LoginTestDataTestCase.class
+com\mq\utilities\Config.class
+com\mq\testcases\CustomerRegistration.class
+com\mq\pageobjects\CustRegPage.class
+com\mq\pageobjects\LoginPage.class
+com\mq\pageobjects\ServiceOrderPage.class
+com\mq\utilities\Reporting.class
+com\mq\utilities\XLUtils.class

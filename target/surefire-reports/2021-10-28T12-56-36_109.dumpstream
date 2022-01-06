@@ -1,4 +1,0 @@
-# Created at 2021-10-28T12:56:52.913
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Navya\MQ\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-

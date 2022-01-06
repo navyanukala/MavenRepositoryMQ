@@ -16,20 +16,22 @@ public class CustRegPage {
 		PageFactory.initElements(rdriver, this);
 	}
 	
-	@FindBy(id="dm0m0i3tdT")
+	@FindBy(id="dm0m0i4tdT")
 	WebElement ordermgmtmenu;
 	
 	@FindBy(id="dm0m1i5tdT")
 	WebElement CustRegmenu;
 	
-	@FindBy(name="ctl00$uxPgCPH$checkchkTerms")
-	WebElement terms;
-	
-	@FindBy(name="ctl00$uxPgCPH$checkchkPrivacy")
-	WebElement privacy;
+//	@FindBy(name="ctl00$uxPgCPH$checkchkTerms")
+//	WebElement terms;
+//	
+//	@FindBy(name="ctl00$uxPgCPH$checkchkPrivacy")
+//	WebElement privacy;
 
-	@FindBy(name="ctl00$uxPgCPH$firstname")
+	@FindBy(id="ctl00_uxPgCPH_firstname")
 	WebElement Firstname;
+	
+	
 	
 	@FindBy(name="ctl00$uxPgCPH$btnsave")
 	WebElement save;
@@ -38,13 +40,19 @@ public class CustRegPage {
 	
 	public void CustRegistration(String fname) throws InterruptedException
 	{
+		System.out.println("entered to customer registartion");
 		ordermgmtmenu.click();
+		//logger.info("ordermanagement clicked");
+		System.out.println("ordermanagement clicked");
 		Thread.sleep(3000);
 		CustRegmenu.click();
-		Thread.sleep(3000);
-		terms.click();
-		privacy.click();
+		System.out.println("customerregistration clicked");
+		//Thread.sleep(50000);
+		//terms.click();
+		//privacy.click();
 		Firstname.sendKeys(fname);
+		System.out.println("send firstname");
+		
 		save.click();
 	}
 	

@@ -26,7 +26,7 @@ public class BaseClass {
 	public String username=config.getusername();
 	public String pwd=config.getpassword();
 	public static WebDriver driver;
-	public static Logger logger;
+	public  Logger logger;
 	
 	
 	@Parameters("browser")

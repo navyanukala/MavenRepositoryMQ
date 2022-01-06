@@ -14,10 +14,11 @@ public class CustomerRegistration extends BaseClass {
 	{
 		LoginPage lg= new LoginPage(driver);
 		lg.login(username,pwd);
+		logger.info("loggedin successfully from custreg");
 		
 		CustRegPage custreg = new CustRegPage(driver);
 		custreg.CustRegistration("navya");//CustRegistration
-
+		logger.info("navigated to custreg");
 	}
 }
 
